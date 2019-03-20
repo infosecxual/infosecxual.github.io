@@ -6,14 +6,14 @@
  
 
  h1 {
-color:#EF0A09;
+color:#1E90FF;
 text-align:center;
 margin-bottom:35px;
 font-size:48px;
 font-family:'calibri';
 }
  h3 {
-color:#EF0A09;
+color:#1E90FF;
 text-align:center;
 font-size:18px;
 font-family:'calibri';
@@ -26,11 +26,11 @@ padding-top:6px;
 font-family:'calibri';
 }
 a:link {
-    color: red;
+    color: #1E90FF;
 text-decoration: none;
 }
 a:visited {
-    color: red;
+    color: #1E90FF;
 text-decoration: none;
 }
 a:hover {
